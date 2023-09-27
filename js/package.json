@@ -2,27 +2,27 @@
   "name": "particles.js",
   "version": "2.0.0",
   "description": "A lightweight JavaScript library for creating particles",
-  "homepage": "http://vincentgarreau.com/particles.js",
+  "homepage": "https://github.com/snowfall92/My_Portfolio-",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/VincentGarreau/particles.js.git"
+    "url": "https://github.com/snowfall92/My_Portfolio-"
   },
   "keywords": [
     "particles",
     "particle",
     "canvas"
   ],
-  "author": "Vincent Garreau",
+  "author": "Omar Flores",
   "license": "MIT",
   "files": [
     "particles.js",
     "particles.min.js"
   ],
   "bugs": {
-    "url": "https://github.com/VincentGarreau/particles.js/issues"
+    "url": "https://github.com/snowfall92/My_Portfolio-"
   },
-  "homepage": "https://github.com/VincentGarreau/particles.js"
+  "homepage": "https://github.com/snowfall92/My_Portfolio-"
 }
